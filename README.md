@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Juan Pablo Cabrera</h1>
 
 <p align="center">
-  Business Systems Engineer · Full-Stack Developer · Automation & Infrastructure Enthusiast
+  Business Systems Engineer · Internal Platforms · Automation & Compliance Systems
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@ I work as a Business Systems Engineer at Clara, where I focus on security, compl
 
 Before that, I worked on full-stack products, legal-tech platforms, compliance automation, data workflows, and AI-related projects.
 
-Right now, my main goal is to become the kind of engineer who can design, build, deploy, and operate systems end to end.
+My goal is to become the kind of engineer who can design, build, deploy, and operate systems end to end.
 
 ---
 
@@ -26,7 +26,7 @@ Right now, my main goal is to become the kind of engineer who can design, build,
 
 - Business systems engineering
 - Security and compliance tooling
-- Internal platforms and automations
+- Internal platforms and automation
 - Docker and containerized environments
 - Cloud infrastructure and deployment workflows
 - Full-stack product development
@@ -71,14 +71,7 @@ Machine learning, document analysis, data pipelines, and AI-assisted productivit
 
 ## What I'm building toward
 
-I'm especially interested in the intersection of:
-
-- software engineering
-- infrastructure
-- security
-- compliance
-- automation
-- business operations
+I'm especially interested in the intersection of software engineering, infrastructure, security, compliance, automation, and business operations.
 
 My long-term goal is to become a strong infrastructure/product engineer capable of building systems that are reliable, secure, scalable, and useful in real companies.
 
