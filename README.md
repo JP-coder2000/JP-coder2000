@@ -14,7 +14,7 @@
 
 I'm a Computer Technologies Engineer focused on building practical systems that connect software, operations, compliance, and business processes.
 
-I recently joined Clara as a Business Systems Engineer, where I'm growing deeper into security, compliance, internal platforms, automation, Docker, and cloud infrastructure.
+I work as a Business Systems Engineer at Clara, where I focus on security, compliance, internal platforms, automation, Docker, and cloud infrastructure.
 
 Before that, I worked on full-stack products, legal-tech platforms, compliance automation, data workflows, and AI-related projects.
 
