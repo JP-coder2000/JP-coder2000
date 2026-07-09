@@ -59,4 +59,4 @@ My long-term goal is to become a strong infrastructure/product engineer capable 
 ## Contact
 
 - Email: juanpablocabrera045@gmail.com
-- LinkedIn: https://www.linkedin.com/in/juan-pablo-cabrera-a01661090tec/
+- LinkedIn: www.linkedin.com/in/juan-pablo-cabrera-lkd
